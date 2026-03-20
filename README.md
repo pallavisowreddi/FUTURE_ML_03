@@ -78,7 +78,7 @@ All output screenshots are included in this repository.
 
 ## 🔗 Links
 - 📓 Google Colab Notebook:https://colab.research.google.com/drive/15kWUhezQEUubqDEQQs9t37hFexanCpjh#scrollTo=bppftu1lPDLQ
-- 💼 LinkedIn Post: [Add your LinkedIn post link here]
+- 💼 LinkedIn Post:https://www.linkedin.com/posts/pallavi-sowreddi-421313368_machinelearning-nlp-python-activity-7440696878175772672-d9Ik?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFsry5kB2nChrqlIn88PU_V0-AGv5cZCQkQ
 
 ## 👤 Author
 - **Internship:** Future Interns
