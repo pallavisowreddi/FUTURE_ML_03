@@ -1,0 +1,250 @@
+rank,Job Title,final_score,similarity_pct,skill_match_pct,matched_count,extracted_skills,skill_gaps
+1,Data Scientist,100.0,100.0,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+1,Data Scientist,100.0,100.0,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+1,Data Scientist,100.0,100.0,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+1,Data Scientist,100.0,100.0,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+1,Data Scientist,100.0,100.0,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+1,Data Scientist,100.0,100.0,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+1,Data Scientist,100.0,100.0,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+1,Data Scientist,100.0,100.0,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+1,Data Scientist,100.0,100.0,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+1,Data Scientist,100.0,100.0,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+1,Data Scientist,100.0,100.0,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+1,Data Scientist,100.0,100.0,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+1,Data Scientist,100.0,100.0,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+2,Data Scientist,93.91,89.85,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+3,Data Scientist,93.51,89.18,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+4,Data Scientist,92.81,88.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+4,Data Scientist,92.81,88.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+4,Data Scientist,92.81,88.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+4,Data Scientist,92.81,88.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+4,Data Scientist,92.81,88.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+4,Data Scientist,92.81,88.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+4,Data Scientist,92.81,88.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+4,Data Scientist,92.81,88.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+4,Data Scientist,92.81,88.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+4,Data Scientist,92.81,88.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+4,Data Scientist,92.81,88.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+4,Data Scientist,92.81,88.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+4,Data Scientist,92.81,88.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+5,Data Scientist,92.38,87.3,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+5,Data Scientist,92.38,87.3,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+5,Data Scientist,92.38,87.3,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+5,Data Scientist,92.38,87.3,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+5,Data Scientist,92.38,87.3,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+5,Data Scientist,92.38,87.3,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+5,Data Scientist,92.38,87.3,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+5,Data Scientist,92.38,87.3,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+5,Data Scientist,92.38,87.3,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+5,Data Scientist,92.38,87.3,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+5,Data Scientist,92.38,87.3,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+5,Data Scientist,92.38,87.3,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+5,Data Scientist,92.38,87.3,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+6,Data Scientist,92.26,87.1,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+6,Data Scientist,92.26,87.1,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+6,Data Scientist,92.26,87.1,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+6,Data Scientist,92.26,87.1,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+6,Data Scientist,92.26,87.1,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+6,Data Scientist,92.26,87.1,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+6,Data Scientist,92.26,87.1,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+6,Data Scientist,92.26,87.1,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+6,Data Scientist,92.26,87.1,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+6,Data Scientist,92.26,87.1,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+7,Data Scientist,92.21,87.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+7,Data Scientist,92.21,87.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+7,Data Scientist,92.21,87.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+7,Data Scientist,92.21,87.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+7,Data Scientist,92.21,87.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+7,Data Scientist,92.21,87.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+7,Data Scientist,92.21,87.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+7,Data Scientist,92.21,87.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+7,Data Scientist,92.21,87.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+7,Data Scientist,92.21,87.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+7,Data Scientist,92.21,87.02,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+8,Data Scientist,92.15,86.92,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+8,Data Scientist,92.15,86.92,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+8,Data Scientist,92.15,86.92,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+8,Data Scientist,92.15,86.92,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+8,Data Scientist,92.15,86.92,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+8,Data Scientist,92.15,86.92,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+8,Data Scientist,92.15,86.92,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+8,Data Scientist,92.15,86.92,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+8,Data Scientist,92.15,86.92,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+8,Data Scientist,92.15,86.92,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+8,Data Scientist,92.15,86.92,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+8,Data Scientist,92.15,86.92,100.0,4,"['python', 'r', 'machine learning', 'deep learning']",[]
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+9,Data Scientist,18.31,13.85,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+10,Data Scientist,13.63,6.05,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+11,Data Scientist,13.55,5.92,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+12,Data Scientist,13.53,5.88,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+13,Data Scientist,13.47,5.79,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+13,Data Scientist,13.47,5.79,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+13,Data Scientist,13.47,5.79,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+13,Data Scientist,13.47,5.79,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+13,Data Scientist,13.47,5.79,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+13,Data Scientist,13.47,5.79,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+13,Data Scientist,13.47,5.79,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+13,Data Scientist,13.47,5.79,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+13,Data Scientist,13.47,5.79,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+13,Data Scientist,13.47,5.79,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+13,Data Scientist,13.47,5.79,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+13,Data Scientist,13.47,5.79,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+13,Data Scientist,13.47,5.79,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+14,Data Scientist,13.45,5.75,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+14,Data Scientist,13.45,5.75,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+14,Data Scientist,13.45,5.75,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+14,Data Scientist,13.45,5.75,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+14,Data Scientist,13.45,5.75,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+14,Data Scientist,13.45,5.75,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+14,Data Scientist,13.45,5.75,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+14,Data Scientist,13.45,5.75,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+14,Data Scientist,13.45,5.75,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+14,Data Scientist,13.45,5.75,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+15,Data Scientist,13.44,5.74,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+15,Data Scientist,13.44,5.74,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+15,Data Scientist,13.44,5.74,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+15,Data Scientist,13.44,5.74,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+15,Data Scientist,13.44,5.74,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+15,Data Scientist,13.44,5.74,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+15,Data Scientist,13.44,5.74,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+15,Data Scientist,13.44,5.74,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+15,Data Scientist,13.44,5.74,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+16,Data Scientist,13.41,5.69,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+16,Data Scientist,13.41,5.69,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+16,Data Scientist,13.41,5.69,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+16,Data Scientist,13.41,5.69,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+16,Data Scientist,13.41,5.69,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+16,Data Scientist,13.41,5.69,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
+16,Data Scientist,13.41,5.69,25.0,1,"['r', 'spark', 'hadoop']","['deep learning', 'python', 'machine learning']"
