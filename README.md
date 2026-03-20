@@ -20,6 +20,8 @@ using data-driven scoring.
 - **Name:** Job Description Dataset
 - **Source:** Kaggle (ravindrasinghrana)
 - **Link:** https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
+- **Note:** Dataset not included due to file size (>25MB).
+  Download directly from Kaggle using the link above.
 
 ## ✅ Key Features Implemented
 
